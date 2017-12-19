@@ -1,0 +1,15 @@
+001|Processador
+002|Placa mae
+003|Memorias
+004|Fonte
+005|Placa de video
+006|Disco Rigido interno (HD)
+007|Drive optico
+008|Gabinete
+009|SSD
+010|Coolers & Watercoolers
+011|Redes & wireles
+012|Placas de Som
+013|Hardware
+014|Software
+018|nova

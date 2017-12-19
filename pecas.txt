@@ -1,0 +1,16 @@
+001|Asus A88XM-A|Placa mae|R$:377,50
+002|Core I5|Processador|R$:100,54
+003|Core I7|Processador|R$:990,00
+004|Gamer trike|Gabinete|R$:228,00
+009|cooler master|Gabinete|R$:550,00
+008|Radeon saphire |Placa de video|R$:1,316,91
+010|Evga gtx660|Placa de video|R$:686,00
+007|Ventoinha cougar|Coolers & Watercoolers|R$:35.20
+015|Cooler intel -BOX|Coolers & Watercoolers|R$:76,56
+013|Coller spire|Coolers & Watercoolers|R$:182,16
+065|550W Cooler master|Fonte|R$:254,32
+052|Kingstom 4GB|Memorias|R$:205,00
+078|Corsair 8GB|Memorias|R$:250,05
+089|HD Seagate 500GB|Disco Rigido interno (HD)|R$:203,26
+045|Gravador DVD/CD asus|Drive optico|R$:66,00
+046|SSD kingston|SSD|R$:392,00

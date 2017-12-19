@@ -1,0 +1,2 @@
+001|Limpeza|Hardware|R$:50,00
+002|Formata‡Æo|Software|R$:33,00
